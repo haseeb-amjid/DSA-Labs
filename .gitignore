@@ -78,4 +78,3 @@ Testing/
 # IDE metadata (keep .sln and .vcxproj if instructed to submit them)
 .vscode/
 .idea/
-s
